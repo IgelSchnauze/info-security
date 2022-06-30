@@ -1,6 +1,9 @@
 # info-security
 4th course, labs, GUI
 
+### How to run
+Load all files and run needed of them (some programs use functions from each other)
+
 ## 1 lab
 ![](screenshots/CaesarCipher.jpg)
 
